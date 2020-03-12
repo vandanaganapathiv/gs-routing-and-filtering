@@ -1,0 +1,4 @@
+# Project exclude paths
+/book/target/
+/gateway/target/
+/pen/target/

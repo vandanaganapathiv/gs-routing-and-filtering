@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gs-routing-and-filtering.iml" filepath="$PROJECT_DIR$/gs-routing-and-filtering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book/routing-and-filtering-book.iml" filepath="$PROJECT_DIR$/book/routing-and-filtering-book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/routing-and-filtering-gateway.iml" filepath="$PROJECT_DIR$/gateway/routing-and-filtering-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pen/routing-and-filtering-pen.iml" filepath="$PROJECT_DIR$/pen/routing-and-filtering-pen.iml" />
+    </modules>
+  </component>
+</project>
